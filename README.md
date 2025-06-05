@@ -51,7 +51,6 @@
 ![Dashboard Preview](preview/3.png)
 ![Dashboard Preview](preview/4.png)
 ![Dashboard Preview](preview/5.png)
-![Dashboard Preview](preview/6.png)
 
 ---
 ## ✅ Як запустити
